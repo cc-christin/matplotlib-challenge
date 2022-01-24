@@ -14,3 +14,5 @@ The purpose of this study was to compare the performance of Pymaceuticals' drug 
 
 #### Task:
 Generate all of the tables and figures needed for the technical report of the study.
+
+Submit a top-level summary of the study results.
