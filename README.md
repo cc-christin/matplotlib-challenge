@@ -1,6 +1,6 @@
 # Matplotlib-Challenge - Power of Plots
 
-#### Scenario:
+## Scenario:
 Pymaceuticals Inc. senior data analyst applying Matplotlib working with data screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
 #### Data:
@@ -17,7 +17,7 @@ Generate all of the tables and figures needed for the technical report of the st
 
 Submit a top-level summary of the study results.
 
-#### # Matplotlib-Challenge - Power of Plots
+## Matplotlib-Challenge - Power of Plots
 ### Initial Preparation
 
 * Run the provided package dependency and data imports, then merge the `mouse_metadata` and `study_results` DataFrames into a single DataFrame.
