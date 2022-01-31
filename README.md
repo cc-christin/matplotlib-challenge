@@ -47,7 +47,7 @@ Submit a top-level summary of the study results.
 
 ![Bar (DataFrame)](https://github.com/christin-c-sok/matplotlib-challenge/blob/main/Images/bar_chart.png)
 
-![Bar (PyPlot)]()
+![Bar (PyPlot)](https://github.com/christin-c-sok/matplotlib-challenge/blob/main/Images/plt_bar.png)
 
 * Generate two pie plots:
 
@@ -57,7 +57,7 @@ Submit a top-level summary of the study results.
 
 ![Pie (DataFrame)](https://github.com/christin-c-sok/matplotlib-challenge/blob/main/Images/pie_chart.png)
 
-![Pie (PyPlot)]()
+![Pie (PyPlot)](https://github.com/christin-c-sok/matplotlib-challenge/blob/main/Images/pie_2.png)
 
 ### Quartiles, Outliers and Boxplots
 
