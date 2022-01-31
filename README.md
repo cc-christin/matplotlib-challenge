@@ -75,29 +75,13 @@ Submit a top-level summary of the study results.
 
 * Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data. Include these observations at the top of the notebook.
 
-## Hints and Considerations
+## Observations and Insights 
 
-* Be warned: These are very challenging tasks. Be patient with yourself as you trudge through these problems. They will take time and there is no shame in fumbling along the way. Data visualization is equal parts exploration, equal parts resolution.
+* Box plots were used in the identification of outliers in regards to the four drug regiemns (Capomulin, Ramicane, Infubinol, and Caftamin) utilized in the experiments to control tumor volume for mouse speciemns. Capomulin and Ramicane were found to have slight outliers, but not statistically significant, as the Average Tumor Volume by Weight of Capomulin treated mice had a correlation coefficient of 0.95. 
 
-* You have been provided a starter notebook. Use the code comments as a reminder of steps to follow as you complete the assignment.
+* The cancer treatment for mice becomes less effective in correlation to  increase  in weight. 
 
-* You must use proper labeling of your plots, to include properties such as: plot titles, axis labels, legend labels, _x_-axis and _y_-axis limits, etc.
+* The gender demographics of mice population for the cancer research trial seems to be an almost even split with a ratio of 51:49 male to female.  
 
-* Don't get bogged down in small details. Always focus on the big picture. If you can't figure out how to get a label to show up correctly, come back to it. Focus on getting the core skeleton of your notebook complete. You can always revisit old problems.
 
-* While you are trying to complete this assignment, feel encouraged to constantly refer to Stack Overflow and the Pandas documentation. These are needed tools in every data analyst's tool belt.
-
-* Remember, there are many ways to approach a data problem. The key is to break up your task into micro tasks. Try answering questions like:
-
-  * How does my DataFrame need to be structured for me to have the right _x_-axis and _y_-axis?
-
-  * How do I build a basic scatter plot?
-
-  * How do I add a label to that scatter plot?
-
-  * Where would the labels for that scatter plot come from?
-
-  Again, don't let the magnitude of a programming task scare you off. Ultimately, every programming problem boils down to a handful of bite-sized tasks.
-
-* Get help when you need it! There is never any shame in asking. But, as always, ask a _specific_ question. You'll never get a great answer to "I'm lost."
 
