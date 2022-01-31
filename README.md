@@ -35,6 +35,8 @@ Submit a top-level summary of the study results.
     * For the first table, use the `groupby` method to generate the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen. This should result in five unique series objects. Combine these objects into a single summary statistics table.
     * For the second table, use the `agg` method to produce the same summary statistics table using a single line of code.
 
+![Summary Statistics](https://github.com/christin-c-sok/matplotlib-challenge/blob/main/Images/summary_stats.png)
+
 ### Bar and Pie Charts
 
 * Generate two bar plots:
@@ -42,6 +44,10 @@ Submit a top-level summary of the study results.
     * Both of these plots should be identical and should show the total number of timepoints for all mice tested for each drug regimen throughout the course of the study.
     * Create the first bar plot using Pandas's `DataFrame.plot()` method.
     * Create the second bar plot using Matplotlib's `pyplot` methods.
+
+![Bar](https://github.com/christin-c-sok/matplotlib-challenge/blob/main/Images/bar_chart.png)
+
+![Bar]()
 
 * Generate two pie plots:
 
@@ -60,6 +66,8 @@ Submit a top-level summary of the study results.
 * Using Matplotlib, generate a box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
 
   **Hint**: All four box plots should be within the same figure. Use this [Matplotlib documentation page](https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html#sphx-glr-gallery-pyplots-boxplot-demo-pyplot-py) for help with changing the style of the outliers.
+  
+  ![Boxplots](https://github.com/christin-c-sok/matplotlib-challenge/blob/main/Images/box_plot.png)
 
 ### Line and Scatter Plots
 
@@ -67,9 +75,19 @@ Submit a top-level summary of the study results.
 
 * Generate a scatter plot of tumor volume versus mouse weight for the Capomulin treatment regimen.
 
+  ![Line Plot](https://github.com/christin-c-sok/matplotlib-challenge/blob/main/Images/line_plot.png)
+  
+  ![Scatter](https://github.com/christin-c-sok/matplotlib-challenge/blob/main/Images/scatter_plot.png)
+
+
 ### Correlation and Regression
 
 * Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
+
+![Correlation](https://github.com/christin-c-sok/matplotlib-challenge/blob/main/Images/correlation.png)
+
+![Regression](https://github.com/christin-c-sok/matplotlib-challenge/blob/main/Images/linear_regression.png)
+
 
 ### Final Analysis
 
