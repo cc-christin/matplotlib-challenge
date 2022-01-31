@@ -45,15 +45,19 @@ Submit a top-level summary of the study results.
     * Create the first bar plot using Pandas's `DataFrame.plot()` method.
     * Create the second bar plot using Matplotlib's `pyplot` methods.
 
-![Bar](https://github.com/christin-c-sok/matplotlib-challenge/blob/main/Images/bar_chart.png)
+![Bar (DataFrame)](https://github.com/christin-c-sok/matplotlib-challenge/blob/main/Images/bar_chart.png)
 
-![Bar]()
+![Bar (PyPlot)]()
 
 * Generate two pie plots:
 
     * Both of these plots should be identical and should show the distribution of female or male mice in the study.
     * Create the first pie plot using both Pandas's `DataFrame.plot()`.
     * Create the second pie plot using Matplotlib's `pyplot` methods.
+
+![Pie (DataFrame)](https://github.com/christin-c-sok/matplotlib-challenge/blob/main/Images/pie_chart.png)
+
+![Pie (PyPlot)]()
 
 ### Quartiles, Outliers and Boxplots
 
